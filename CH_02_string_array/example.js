@@ -7,7 +7,7 @@ var welcome = greeting + name + message;
 
 // Create variables to hold details about the sign
 var sign = 'Montague House';
-var tiles = sign.length;
+var tiles = sign.length;                     //字符串的length方法
 var subTotal = tiles * 5;
 var shipping = 7;
 var grandTotal = subTotal + shipping;
