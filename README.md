@@ -11,6 +11,13 @@
 **CH_04 循环**  
 for while do while 以及section br标签
 **CH_05 DOM、元素、属性**     
-若干种获取DOM中元素并保存到NodeList中方法;元素Element的创建、删除、添加(insertbefore、appendchild等等);Attribute属性设置className等等     
+若干种获取DOM中元素并保存到NodeList中方法;元素Element的创建、删除、添加(insertbefore、appendchild等等);Attribute属性设置className等等  
+**CH_06 EVENT**  
+事件 click mouse submit 等等 也可以在root属性上监听  Jqury监听事件on  
+**CH_07 Jqury**  
+Jqury 页面ready后执行JS 获取元素$()更加方便 .each()遍历 事件监听.on()  
+**CH_08 Ajax Json**  
+  
+     
 
 git for branch dev
